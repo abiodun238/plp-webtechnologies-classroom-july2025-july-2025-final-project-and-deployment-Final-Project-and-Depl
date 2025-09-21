@@ -1,90 +1,65 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# Furniture Haven - a furniture product showcase website
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+A modern responsive multipage website for furniture haven, a furniture product company.BUilt with html,css,and javascript
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+# Features
+  .Responsive Design.fully responsive across all devices(mobile,tablet.desktop)
+  .Modern UI/UX. clean design with deep blue and orange theme
+  .interactive elements
+     .Mobile friendly hamburger navigation
+     .form validation with feedback
+  .Semantic HTML5 proper sematic structure for accessibilty and SEO
+  .crossbrowser compatibility.
+# Project Structures
+  pages---index.html, about.html, contact.html, products.html
+  js---script.js
+  css---styles.css
+  images---hero.png, table.png,sofa.png
 
----
+# Design theme
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+primary color: orange
+secondary color: deep blue
+typography:
+style: grid and flex box layout
 
-Before you write any code, take time to plan:
 
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
+# Pages
 
-**Goal:** Show intentional structure and user journey across the site.
+# Home page(index.html)
+  .Navigation bar
+  .hero section
+  .Call to action
+  .why choose us.
 
----
+# About Page(about.html)
+  .A description of th company product and services
+      
+# Contact Page (contact.html)
+  . contact form to get in touch
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
 
-Using your plan, begin building:
+# Techinical features
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+# HTML5
+   . semanthic markup(header,nav,main,section.footer)
+   . Proper heading
+   . Accessible form labels and structure
+   . Meta tags for SEO and responsive design
+# CSS3
 
-Each page should:
+# Javascript
+  .mobile navigation toggle
+  .form validation
+  . event hanling
+# Responsive Break points
 
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
+  .mobile: 480px
+  .tablet:481-78px
+  .Desktop>78px
 
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+# Setup and deployment
+  .clone and download the project files
+  .open index.html in web browser
 
----
-
-## 🛠️🚀 Part 3: Best Practices for Code Organization
-
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
-
----
-
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
-
----
-
-## Deliverables
-
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
-
----
-
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+  # live link
