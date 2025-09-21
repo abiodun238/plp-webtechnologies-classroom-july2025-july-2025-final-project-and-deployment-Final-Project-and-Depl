@@ -2,7 +2,7 @@
 
 A modern responsive multipage website for furniture haven, a furniture product company.BUilt with html,css,and javascript
 
-# Features
+# ✔ Features
   .Responsive Design.fully responsive across all devices(mobile,tablet.desktop)
   .Modern UI/UX. clean design with deep blue and orange theme
   .interactive elements
@@ -10,7 +10,7 @@ A modern responsive multipage website for furniture haven, a furniture product c
      .form validation with feedback
   .Semantic HTML5 proper sematic structure for accessibilty and SEO
   .crossbrowser compatibility.
-# Project Structures
+#  Project Structures
   pages---index.html, about.html, contact.html, products.html
   js---script.js
   css---styles.css
@@ -62,4 +62,5 @@ style: grid and flex box layout
   .clone and download the project files
   .open index.html in web browser
 
-  # live link
+# live link:
+   https://abiodun238.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
